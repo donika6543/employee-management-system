@@ -24,6 +24,7 @@ Backend:
 Other:  
 - Git & GitHub for version control
 
-
-## Project Structure
-
+ Project Structure
+fullstackproject/
+├── ems-backend/ # Backend code (API, database models)
+└── ems-frontend/ # React frontend
