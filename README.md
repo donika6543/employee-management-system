@@ -65,8 +65,7 @@ The frontend communicates with the backend using *Axios* to send HTTP requests a
 1. Navigate to frontend folder
 2. Run:
    ```bash
-   npm install
-   npm start
+   npm run dev
 
 
 
