@@ -51,13 +51,13 @@ The application supports complete *CRUD operations* (Create, Read, Update, Delet
 ## 📸 Screenshots
 
 ### Add Employee Page
-![Add Employee]()
+![Add Employee](AddEmployeeform.png)
 
 ### Update Employee Page
-![Update Employee]()
+![Update Employee](UpdateEmployeepage.png)
 
 ### Employee List Page
-![Employee List]()
+![Employee List](EmployeelistwithUpdataandDelete.png)
 
 ---
 
