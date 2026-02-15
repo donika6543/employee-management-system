@@ -48,19 +48,6 @@ The application supports complete *CRUD operations* (Create, Read, Update, Delet
 
 ---
 
-## 📸 Screenshots
-
-### Add Employee Page
-![Add Employee](Add Employee form.png)
-
-### Update Employee Page
-![Update Employee](Update Employee page.png)
-
-### Employee List Page
-![Employee List](Employee list with Updata and Delete.png)
-
----
-
 ## 🔗 API Integration
 
 The frontend communicates with the backend using *Axios* to send HTTP requests and receive JSON responses from Spring Boot REST APIs.
