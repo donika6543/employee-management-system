@@ -19,8 +19,7 @@ The application supports complete *CRUD operations* (Create, Read, Update, Delet
 ## 🛠️ Technologies Used
 
 ### Frontend
-- React.js
-- TypeScript
+- React+TypeScript
 - Axios
 - Bootstrap
 - React Router DOM
